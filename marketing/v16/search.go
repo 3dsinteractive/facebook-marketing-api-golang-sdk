@@ -3,7 +3,7 @@ package v16
 import (
 	"context"
 
-	"github.com/justwatch/facebook-marketing-api-golang-sdk/fb"
+	"github.com/3dsinteractive/facebook-marketing-api-golang-sdk/fb"
 )
 
 // SearchService performs searches on the graph API.

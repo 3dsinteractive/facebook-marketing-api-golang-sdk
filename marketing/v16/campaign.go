@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/justwatch/facebook-marketing-api-golang-sdk/fb"
+	"github.com/3dsinteractive/facebook-marketing-api-golang-sdk/fb"
 )
 
 // CampaignService works with campaigns.

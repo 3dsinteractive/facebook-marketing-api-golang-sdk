@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/3dsinteractive/facebook-marketing-api-golang-sdk/fb"
 	"github.com/PuerkitoBio/goquery"
-	"github.com/justwatch/facebook-marketing-api-golang-sdk/fb"
 	"golang.org/x/sync/errgroup"
 )
 
