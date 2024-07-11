@@ -1,4 +1,4 @@
-package v16
+package v20
 
 import (
 	"context"
@@ -8,7 +8,7 @@ import (
 	"net/url"
 
 	"github.com/3dsinteractive/facebook-marketing-api-golang-sdk/fb"
-	"github.com/3dsinteractive/facebook-marketing-api-golang-sdk/marketing/v16/types"
+	"github.com/3dsinteractive/facebook-marketing-api-golang-sdk/marketing/v20/types"
 )
 
 // CustomConversionService contains all methods for working on custom conversions.
